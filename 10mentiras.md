@@ -1,9 +1,14 @@
+% Diez errores o mentiras frecuentes sobre literatura y cultura en América Latina
+% Eduardo Galeano
+% Diciembre de 1981
 
 # Diez errores o mentiras frecuentes sobre literatura y cultura en América Latina
 
-## Eduardo Galeano
+---
 
 **Eduardo Galeano:** Escritor y periodista uruguayo. Autor de numerosos artículos y ensayos publicados en la prensa mundial. Entre sus principales obras publicadas se cuentan: "Las Venas Abiertas de América Latina", "Guatemala, país ocupado", "La Canción de Nosotros".
+
+---
 
 ## 1. Hacer literatura consiste en escribir libros
 
@@ -66,9 +71,7 @@ La misma actitud, creo, aunque la mala conciencia impediría confesarlo, subyace
 
 Es falsa, creo, la polémica entre los monopolistas de la belleza, que se niegan a "descender" al nivel del pueblo, y los bien intencionados que pretenden "bajar" a ese nivel para comunicarse con las masas. Unos y otros están de acuerdo: operan desde las cumbres y desprecian lo que ignoran.
 
-## 5. Una verdadera democracia es la que garantiza la libertad de expresión a los escritores y
-
-## artistas
+## 5. Una verdadera democracia es la que garantiza la libertad de expresión a los escritores y artistas
 
 Esta concepción típica del pensamiento liberal, ubica a los escritores y artistas al margen de las tormentas y los tormentos del mundo. Vela por la suerte de los poetas, pero se desentiende del destino de los mecánicos torneros, las mecanógrafas, los albañiles o los peones de estancia. Así, se suele escuchar furiosas protestas contra la **censura coyuntural,** que olímpicamente ignoran la existencia de la **censura estructural.** Se condena la prohibición, el asesinato, la prisión o el destierro de los escritores, el saqueo de las bibliotecas, la clausura de los periódicos y las hogueras de libros como si fueran "abusos", "excesos" y "arbitrariedades", y no las dramáticas consecuencias del funcionamiento de un sistema que no tiene más remedio que recurrir a la violencia para mantener a raya a las crecientes legiones de desocupados, desesperados y malditos.
 
@@ -82,9 +85,7 @@ Se dice, por ejemplo: "Jorge Luis Borges opina que el pueblo argentino es imbéc
 
 Se nos permite, a lo sumo, la nostalgia: la esperanza, nunca. ¿En qué contradice su concepción de la condición humana a un sistema que pretende confundirse con la eternidad y vaciar al hombre, precisamente, de libertad y de historia?
 
-## 6. No puede hablarse de cultura latinoamericana, porque América Latina no es más que una
-
-## realidad geográfica
+## 6. No puede hablarse de cultura latinoamericana, porque América Latina no es más que una realidad geográfica
 
 ¿Nada más que una realidad geográfica? Y sin embargo se mueve. En los hechos, minúsculos a veces, América Latina revela cada día comuniones tantas como sus contradicciones; los latinoamericanos compartimos un espacio común y no solamente en el mapa. Bien lo supieron, a principios del siglo pasado, los héroes que en vano la quisieron unida y un eficaz imperio que en fracturas sucesivas la dividió para reinar. Bien lo saben, ahora, las corporaciones multinacionales que planifican sus negocios en escala latinoamericana y manejan a su antojo los mecanismos de la integración.
 
@@ -96,9 +97,7 @@ A partir de lo que nos une, y sobre la base del respeto a las numerosas identida
 
 Con elocuente facilidad hacen contacto, cuando las dejan, nuestras desconectadas culturas más genuinas. Muchas razones y misterios nos hacen sentirnos a todos pedacitos de una patria grande, donde seres del mundo entero y de todas las culturas se han dado cita, a lo largo de los siglos, para mezclarse y ser. Más allá de la diversidad de las razas, las raíces y las estadísticas, el patrimonio cultural de México o Ecuador pertenece también al Uruguay y a la Argentina, y viceversa, en la medida en que unos y otros pueden brindarse claves de respuesta ante los desafíos que plantea la realidad actual. La cultura negra de Haití no es ajena a la cultura indígena de Guatemala, porque en una y en otra pueden encontrar agua clara de beber las gentes que confluyen en un espacio, un tiempo y un drama histórico comunes. ¿Qué hispanoamericano puede no sentir algún latido propio en Guaimaraes Rosa, Drummond de Andrade o Ferreira Gullar? ¿Qué brasileño no siente que de algún modo son suyos Carpentier, Cortázar o Rulfo? Las revoluciones de Cuba o Nicaragua no resultan extranjeras para ningún latinoamericano. La tragedia de Chile nos abrió un tajo en el pecho a los latinoamericanos todos. ¿No estamos todos hechos, sea cual fuere el color de la piel y la lengua que hablamos, con diversos barros de una misma tierra múltiple?
 
-## 7. La gran tarea de la nueva literatura latinoamericana consiste en la invención de un
-
-## lenguaje
+## 7. La gran tarea de la nueva literatura latinoamericana consiste en la invención de un lenguaje
 
 Han quedado atrás, afortunadamente, los novelones románticos, el paternalismo de los escritores "indigenistas" y el "nativismo" mentiroso, escrito en las ciudades y para las ciudades. En los últimos veinte o treinta años, la literatura latinoamericana ha reflejado una nueva conciencia de la realidad, que se incubó en algunos sectores juveniles de la clase media y se proyectó, en el plano cultural, con tanto vigor como en el plano político.
 
@@ -139,9 +138,7 @@ La literatura puede reivindicar, creo, un sentido político liberador, toda vez 
 
 Se pueden encontrar numerosos ejemplos en la literatura latinoamericana de más alto nivel. En un trabajo publicado hace poco, Pedro Orgambide decía que él tenía la sospecha de que el "Canto General" de Pablo Neruda, es más político en los tramos aparentemente menos políticos de su texto. Me parece que la sospecha tiene buen fundamento. Los poemas de Neruda tienen mayor vigor y profundidad política en "Alturas de Machu Picchu" que en algunas páginas dedicadas a la denuncia de ciertos dictadores o a las tropelías de la United Fruit Company. A mi juicio, el libro "Week end en Guatemala", de Miguel Angel Asturias, escrito en pleno hervor de la cólera por la invasión y la matanza de 1954, es, de todos los suyos, el que tiene un contenido político más explícito, pero es, políticamente, el menos eficaz. No comparto la opinión, casi unánime, que considera "El Libro de Manuel" La obra más comprometida de Julio Cortázar, así como me parece que "El otoño del patriarca", de Gabriel García Márquez, es menos rico, en el sentido político, que "Cien años de soledad", aunque la denuncia política no aparezca en primer plano en esta gran novela.
 
-## 10. En el mejor de los casos, la literatura puede interpretar la realidad; pero es incapaz de
-
-## transformarla
+## 10. En el mejor de los casos, la literatura puede interpretar la realidad; pero es incapaz de transformarla
 
 Al interpretar la realidad, al redescubrirla, la literatura puede ayudar a conocerla. Y conocerla es el primer paso necesario para empezar a cambiarla: no hay experiencia de cambio social y político que no se desarrolle a partir de una profundización de la conciencia de la realidad.
 
