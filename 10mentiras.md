@@ -6,6 +6,10 @@
 
 ---
 
+*Aun disponible libre y publicamente, tras cuarenta años, en https://www.nuso.org/articulo/diez-errores-o-mentiras-frecuentes-sobre-literatura-y-cultura-en-america-latina/*
+
+---
+
 **Eduardo Galeano:** Escritor y periodista uruguayo. Autor de numerosos artículos y ensayos publicados en la prensa mundial. Entre sus principales obras publicadas se cuentan: "Las Venas Abiertas de América Latina", "Guatemala, país ocupado", "La Canción de Nosotros".
 
 ---
